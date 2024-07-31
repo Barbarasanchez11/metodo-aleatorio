@@ -2,7 +2,7 @@
 let metodos = [
     "filter", "map", "forEach", "flat",
     "find", "indexOf", "includes", "split",
-    "join", "reduce", "reverse", "slice"
+    "join", "reduce", "reverse", "slice", "shift", "unshift"
 ];
 
 document.getElementById("generarEjercicio").addEventListener("click", () => {
